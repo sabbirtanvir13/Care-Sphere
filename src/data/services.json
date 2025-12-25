@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Baby Care Service",
+    "slug": "baby-care",
+    "description": "Professional babysitting service for infants and children with trained caretakers.",
+    "pricePerHour": 300,
+    "pricePerDay": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj87LzKxFFJ6t6kjU7YIolIhvUbV_2_szWLg&s",
+    "features": ["Certified caretakers", "Safe & hygienic care", "Flexible timing"],
+    "category": "Baby Care"
+  },
+  {
+    "name": "Newborn Care Service",
+    "slug": "newborn-care",
+    "description": "Special care for newborn babies including feeding, hygiene and sleep support.",
+    "pricePerHour": 350,
+    "pricePerDay": 2300,
+    "image": "https://swaasaa.com/wp-content/uploads/2025/04/Baby_care.jpg",
+    "features": ["Trained nurses", "24/7 support", "Gentle handling"],
+    "category": "Baby Care"
+  },
+  {
+    "name": "Toddler Care Service",
+    "slug": "toddler-care",
+    "description": "Play-based and attentive care for toddlers at home.",
+    "pricePerHour": 280,
+    "pricePerDay": 1900,
+    "image": "https://daily.jstor.org/wp-content/uploads/2015/02/daycare.jpg",
+    "features": ["Play activities", "Safe supervision", "Meal assistance"],
+    "category": "Baby Care"
+  },
+  {
+    "name": "Elderly Care Service",
+    "slug": "elderly-care",
+    "description": "Compassionate care for senior citizens including daily assistance.",
+    "pricePerHour": 350,
+    "pricePerDay": 2500,
+    "image": "https://eastleighcarehomes.co.uk/wp-content/uploads/2023/04/old-lady-care-home-happy.jpg",
+    "features": ["Experienced caregivers", "Medication support", "Daily assistance"],
+    "category": "Elderly Care"
+  },
+  {
+    "name": "Senior Companion Care",
+    "slug": "senior-companion",
+    "description": "Friendly companionship and emotional support for elderly persons.",
+    "pricePerHour": 300,
+    "pricePerDay": 2200,
+    "image": "https://companionsforseniors.com/wp-content/uploads/2020/08/2020-9-2-Three-Ways-to-Know-If-a-Senior-Companion-Will-Be-the-Right-Fit.jpg",
+    "features": ["Emotional support", "Conversation & walks", "Daily monitoring"],
+    "category": "Elderly Care"
+  },
+  {
+    "name": "Dementia Care Service",
+    "slug": "dementia-care",
+    "description": "Specialized care for patients with dementia and memory loss.",
+    "pricePerHour": 450,
+    "pricePerDay": 3200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qq03EK_Gf6YFpGuYJBUNv_VeGv7OX38EVA&s",
+    "features": ["Trained staff", "Patient monitoring", "Safe environment"],
+    "category": "Elderly Care"
+  },
+  {
+    "name": "Sick Patient Care",
+    "slug": "sick-care",
+    "description": "Home care service for sick or recovering patients.",
+    "pricePerHour": 400,
+    "pricePerDay": 3000,
+    "image": "https://isomer-user-content.by.gov.sg/3/a1544caf-1263-482c-b6bb-a6ec943fd591/young-nurse-take-care-senior-patient-hospital-room-transformed.jpeg",
+    "features": ["Medical assistance", "Vital checkups", "Hygienic care"],
+    "category": "Sick Care"
+  },
+  {
+    "name": "Post Surgery Care",
+    "slug": "post-surgery-care",
+    "description": "Professional care for patients after surgery at home.",
+    "pricePerHour": 500,
+    "pricePerDay": 3500,
+    "image": "https://rustingtonconvalescenthome.co.uk/wp-content/uploads/2023/05/Post-Operative-Care-Types-Benefits-and-Importance.jpg",
+    "features": ["Wound care", "Medication support", "Recovery assistance"],
+    "category": "Sick Care"
+  },
+  {
+    "name": "Physiotherapy Support",
+    "slug": "physiotherapy-support",
+    "description": "Basic physiotherapy and mobility assistance at home.",
+    "pricePerHour": 450,
+    "pricePerDay": 3200,
+    "image": "https://img.freepik.com/premium-photo/physiotherapist-senior-man-stretching-support-elderly-care-wellness-health-fitness-pensioner-male-person-medic-chiropractic-rehabilitation-clinic-retirement-home_590464-415960.jpg",
+    "features": ["Mobility exercises", "Pain relief", "Recovery guidance"],
+    "category": "Sick Care"
+  },
+  {
+    "name": "Night Care Service",
+    "slug": "night-care",
+    "description": "Overnight care service for elderly or sick individuals.",
+    "pricePerHour": 380,
+    "pricePerDay": 2700,
+    "image": "https://gentlefolkcare.co.uk/wp-content/uploads/2022/07/night_CareA-scaled.jpg",
+    "features": ["Night monitoring", "Emergency handling", "Peaceful care"],
+    "category": "Special Care"
+  },
+  {
+    "name": "Disabled Care Service",
+    "slug": "disabled-care",
+    "description": "Supportive care for physically disabled persons.",
+    "pricePerHour": 420,
+    "pricePerDay": 3000,
+    "image": "https://murrays.ie/wp-content/uploads/2022/06/Caring-with-Someone-with-a-Disability.jpeg",
+    "features": ["Mobility help", "Daily assistance", "Respectful care"],
+    "category": "Special Care"
+  },
+  {
+    "name": "Autism Care Service",
+    "slug": "autism-care",
+    "description": "Specialized care for children with autism.",
+    "pricePerHour": 480,
+    "pricePerDay": 3400,
+    "image": "https://www.nursinginpractice.com/wp-content/uploads/2020/06/Autism_child_and_carer_GettyImages_533744195_752x393px-539x282.jpg",
+    "features": ["Trained specialists", "Patient interaction", "Safe routines"],
+    "category": "Special Care"
+  },
+  {
+    "name": "Home Nurse Service",
+    "slug": "home-nurse",
+    "description": "Certified nurse service for medical care at home.",
+    "pricePerHour": 550,
+    "pricePerDay": 4000,
+    "image": "https://wecare24.co/wp-content/uploads/2022/11/care-in-nursing-home.jpg",
+    "features": ["Certified nurses", "Medical procedures", "Health monitoring"],
+    "category": "Medical Care"
+  },
+  {
+    "name": "Palliative Care Service",
+    "slug": "palliative-care",
+    "description": "Comfort-focused care for chronic or terminal patients.",
+    "pricePerHour": 600,
+    "pricePerDay": 4200,
+    "image": "https://www.felixhospital.com/sites/default/files/2025-01/palliative-homecare.jpg",
+    "features": ["Pain management", "Emotional support", "Family guidance"],
+    "category": "Medical Care"
+  },
+  {
+    "name": "Emergency Home Care",
+    "slug": "emergency-home-care",
+    "description": "Immediate short-term home care support in emergencies.",
+    "pricePerHour": 650,
+    "pricePerDay": 4500,
+    "image": "https://nebula.wsimg.com/3597974c248c00052e2010f32276fb00?AccessKeyId=090C9095471155FC374D&disposition=0&alloworigin=1",
+    "features": ["Rapid response", "Trained professionals", "Emergency handling"],
+    "category": "Emergency Care"
+  }
+]
