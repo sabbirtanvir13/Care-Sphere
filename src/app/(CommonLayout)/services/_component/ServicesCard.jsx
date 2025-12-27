@@ -24,7 +24,7 @@ const ServicesCard = ({ service }) => {
           fill
           className="object-cover group-hover:scale-105 transition-transform duration-300"
         />
-        <span className="absolute top-3 left-3 bg-primary text-white text-xs font-medium px-3 py-1 rounded-full">
+        <span className="absolute top-3 left-3 bg-[#1f6f63] text-white text-xs font-medium px-3 py-1 rounded-full">
           {category}
         </span>
       </div>
@@ -58,8 +58,8 @@ const ServicesCard = ({ service }) => {
               <span className="text-sm font-medium text-gray-500">/hr</span>
             </p>
           </div>
-          <Link href={`/services/${service?._id}`}>
-            <button className="px-4 py-2 text-sm font-medium rounded-lg bg-primary text-white hover:bg-primary/90 transition">
+          <Link  href={`/services/${service.slug}`}>
+            <button className="px-4 py-2 text-sm font-medium rounded-lg text-white bg-[#1f6f63] transition">
               Book Now
             </button>
           </Link>
